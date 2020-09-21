@@ -79,8 +79,8 @@ def update():
 def help():
         print green+"List Commands :"
         print cyan+"===================================="
-        print merah+"cctv/be patient : CCTV PUBLIC WEST JAVA"
-        print merah+"cctv K : CCTV PUBLIC CITY "
+        print merah+"cctv/jabar patient : CCTV PUBLIC WEST JAVA"
+        print merah+"cctv/kalsel: CCTV PUBLIC CITY "
         print merah+"cctv/ D : cctv PUBLIC ROAD"
         print merah+"Coming Soon"
         print cyan+"====================================="

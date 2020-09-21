@@ -81,7 +81,7 @@ def help():
         print cyan+"===================================="
         print merah+"cctv/jabar patient : CCTV PUBLIC WEST JAVA"
         print merah+"cctv/kalsel: CCTV PUBLIC CITY "
-        print merah+"cctv/ D : cctv PUBLIC ROAD"
+        print merah+"cctv/jakarta : cctv PUBLIC ROAD"
         print merah+"Coming Soon"
         print cyan+"====================================="
         back()

@@ -65,7 +65,7 @@ def main():
         print()
         print()
 
-        abcd = input("Press enter to countinue ...")
+        input("Press enter to countinue ...")
 
         main()
 
@@ -118,6 +118,17 @@ def main():
         print("")
 
         input("Press enter to countinue ...")
+        main()
+
+    if opt == "bye":
+        quit()
+
+    else:
+        print("")
+        prd("[ERROR] No Such Options")
+        prg("[INFO] enter help for rescue")
+        print("")
+
         main()
 
 main()
